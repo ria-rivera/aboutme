@@ -2,7 +2,7 @@
 title: Ria Rivera | Senior Technical Writer
 email: rialitybytes@gmail.com
 description: 
-baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/aboutme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Identity
