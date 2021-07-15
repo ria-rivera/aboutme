@@ -10,16 +10,16 @@ your-name: Ria Rivera
 your-title: Senior Technical Writer
 
 # Social settings
-500px_url:
-facebook_url: 
+# 500px_url:
+# facebook_url: 
 github_url: https://github.com/ria-rivera
 gitlab_url: https://gitlab.com/ria-rivera
-googleplus_url: 
-instagram_url: 
+# googleplus_url: 
+# instagram_url: 
 linkedin_url: https://www.linkedin.com/in/riarivera
-pinterest_url:
-slack_url:
-twitter_url: 
+# pinterest_url:
+# slack_url:
+# twitter_url: 
 
 # Build settings
 markdown: kramdown
